@@ -7,7 +7,9 @@
 
 ## Download
 - Linux: https://github.com/kryfi-com/xmrig-nevo/releases/download/v6.20.0/xmrig-linux.tar.gz
-- MacOS: https://github.com/kryfi-com/xmrig-nevo/releases/download/v6.20.0/xmrig-v6.20.0-mac64.tar.gz
+- MacOS:
+  - x64 (Intel): https://github.com/kryfi-com/xmrig-nevo/releases/download/v6.20.0/xmrig-v6.20.0-mac.tar.gz
+  - arm64 (M1/M2/M3...): https://github.com/kryfi-com/xmrig-nevo/releases/download/v6.20.0/xmrig-v6.20.0-mac-arm64.tar.gz
 - Windows: https://github.com/kryfi-com/xmrig-nevo/releases/download/v6.20.0/xmrig-v6.20.0-win64.zip
 
 For HiveOS, check here: https://github.com/kryfi-com/xmrig-hiveos
